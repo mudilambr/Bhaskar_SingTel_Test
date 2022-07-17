@@ -37,6 +37,7 @@ target: Test Reports
 *4) How to Run:
 ==============================
 1. Maven command to run the tests: Goto the "todos_Mvc_Test" directory
+
 $mvn test -Dcucumber.options="--tags @TodoSanityTest"
 
 
