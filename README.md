@@ -28,15 +28,20 @@ Note: Please make sure all of them are set in environment variable path
 This test automation suite is built in Java using the selenium Java Client. The design is based on Page Object Model and Cucumber Framework, with separate classes for Page Objects and Pages. 
 
 Configuration files: src\main\resources\environment.properties
+
 Step definitions: src\test\java\step_definitions
+
 Feature file: src\test\resources\featurefiles\Add-mvc-todo.feature
+
 tools: tools\drivers\chrome\chromedriver.exe
+
 target: Test Reports
 
 
 *4) How to Run:
 ==============================
 1. Maven command to run the tests: Goto the "todos_Mvc_Test" directory
+
 $mvn test -Dcucumber.options="--tags @TodoSanityTest"
 
 
