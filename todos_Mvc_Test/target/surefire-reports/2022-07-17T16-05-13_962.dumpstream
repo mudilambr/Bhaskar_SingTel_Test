@@ -1,0 +1,15 @@
+# Created on 2022-07-17T16:05:13.963
+WARNING: An illegal reflective access operation has occurred
+
+# Created on 2022-07-17T16:05:13.964
+WARNING: Illegal reflective access by org.assertj.core.api.AbstractSoftAssertions (file:/C:/Users/Neelshika/.m2/repository/org/assertj/assertj-core/3.10.0/assertj-core-3.10.0.jar) to field java.lang.Throwable.detailMessage
+
+# Created on 2022-07-17T16:05:13.964
+WARNING: Please consider reporting this to the maintainers of org.assertj.core.api.AbstractSoftAssertions
+
+# Created on 2022-07-17T16:05:13.965
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created on 2022-07-17T16:05:13.966
+WARNING: All illegal access operations will be denied in a future release
+
